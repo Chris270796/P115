@@ -7,16 +7,5 @@ h3 {
 }
 
 canvas {
-    animation-name: Mr_J;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes Mr_J {
-    from {
-        box-shadow: 1px 1px 38px blue;
-    }
-    to {
-        box-shadow: 1px 1px 38px red;
-    }
+    border: 15px solid black;
 }
